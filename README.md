@@ -1,4 +1,5 @@
-In this assignment let's build a **Simple Todos** by applying the concepts we have learned till now.
+## LIVE DEMO :- <a href="https://pedantic-davinci-d53397.netlify.app">Simple Todos </a>
+In this assignment let's build a **Simple Todos** 
 
 ### Refer to images below:
 
@@ -27,37 +28,11 @@ In this assignment let's build a **Simple Todos** by applying the concepts we ha
 - Start up the app using `npm start`
 </details>
 
-### Project Completion Instructions
 
-<details>
-<summary>Click to view the Functionality to be added</summary>
 
-#### Add Functionality
 
-The app must have the following functionalities
 
-- Initially the list of given todo items should be displayed with a delete button for each todo.
-- When **Delete** button of a todo item is clicked, the respective todo should be deleted.
 
-- The `SimpleTodos` will consist of the `initialTodosList`. It consists of a list of todo objects with the following properties in each todo object
-
-  | Key         | Data Type |
-  | ----------- | --------- |
-  | id          | Number    |
-  | title  | String    |
-
-</details>
-
-<details>
-<summary>Click to view the Implementation Files</summary>
-
-- Your task is to complete the implementation of
-  - `src/components/SimpleTodo/index.js`
-  - `src/components/SimpleTodo/index.css`
-  - `src/components/TodoItem/index.js`
-  - `src/components/TodoItem/index.css`
-
-</details>
 
 <details>
 <summary>Click to view the Components Structure</summary>
@@ -111,15 +86,4 @@ The app must have the following functionalities
 
 </details>
 
-#### Font-families
 
-- Roboto
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
